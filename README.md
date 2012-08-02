@@ -8,11 +8,14 @@ Install
 
 Grab the extensions and drop them in alfred
 
-Develop
-=======
+TODO
+====
 
 I don't know how to build the extension so I use Alfred's export. It
-does not look complicated, I just need to find the time to do it
+does not look complicated, I just need to find the time to do it.
+
+Use http://jdfwarrior.tumblr.com/post/13826478125/extension-updater
+
 
 License
 =======
