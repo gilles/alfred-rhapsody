@@ -1,12 +1,19 @@
 alfred-rhapsody
 ===============
 
-Extnsions for Rhapsody (http://www.rhapsody.com/) for Safari
+Extensions for [Rhapsody](http://www.rhapsody.com/) for Safari
 
 Install
 =======
 
-Grab the extensions and drop them in alfred
+You need [Alfred](http://www.alfredapp.com) (obviously) and the [Powerpack](http://www.alfredapp.com/powerpack/).
+
+1. Dowload the extension files
+ * https://github.com/gilles/alfred-rhapsody/raw/master/export/Rhapsody%20pause.alfredextension
+ * https://github.com/gilles/alfred-rhapsody/raw/master/export/Rhapsody%20play.alfredextension
+ * https://github.com/gilles/alfred-rhapsody/raw/master/export/Rhapsody%20playnext.alfredextension
+
+2. Open the file, Alfred recognizes the extension and installs it.
 
 TODO
 ====
@@ -15,6 +22,8 @@ I don't know how to build the extension so I use Alfred's export. It
 does not look complicated, I just need to find the time to do it.
 
 Use http://jdfwarrior.tumblr.com/post/13826478125/extension-updater
+
+Try to do play/pause in one action
 
 
 License
