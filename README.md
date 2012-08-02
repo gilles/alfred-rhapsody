@@ -1,7 +1,7 @@
 alfred-rhapsody
 ===============
 
-Extensions for [Rhapsody](http://www.rhapsody.com/) for Safari
+[Alfred](http://www.alfredapp.com) extensions for [Rhapsody](http://www.rhapsody.com/) for Safari
 
 Install
 =======
